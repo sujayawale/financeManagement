@@ -12,5 +12,10 @@ public class Constants {
 	public static final Object ACCOUNTNAMEISBLANK = "Account name is Blank, Please check";
 	public static final Object USERNAMEISBLANK = "User name is Blank, Please check";
 	public static final Object MOBILENUMBERISBLANK = "Mobile number is Blank, Please check";
+	public static final Object NOTABLETOFINDACCOUNTID = "Not able to find Account";
+	public static final String ACCOUNTNAME = "accountName";
+	public static final String CURRENTBALANCE = "currentBalance";
+	public static final Object NOTRANSACTIONDATAFOUND = "No Transaction data found";
+	public static final String TRANSACTIONS = "transactions";
 
 }
